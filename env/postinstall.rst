@@ -10,11 +10,13 @@ VMware Deployments
 
 Topics that are covered off include the vSphere HA/DRS settings, Admission Control Policy and disabling SIOC. And of course, don't forget to configure Prism with the VMware vCenter details.
 
--   Search for the **vSphere Administration Guide for Acropolis** in the Support Portal, or click this link `vSphere Guide`_.
+-   Search for the **vSphere Administration Guide for Acropolis** in the Support Portal, you should fine two versions. One for the vSphere `Web Client`_ and one for the `HTML5 Client`_.
 
 -   If the customer is planning multiple HA/DRS clusters on a single Nutanix Cluster make sure **you've read** the `caveats`_ KB article 7256.
 
-.. _vSphere Guide: https://portal.nutanix.com/#/page/docs/details?targetId=vSphere-Admin6-AOS-v55:vSphere-Admin6-AOS-v55
+.. _Web Client: https://portal.nutanix.com/#/page/docs/details?targetId=vSphere-Admin6-AOS-v55:vSphere-Admin6-AOS-v55
+
+.. _HTML5 Client: https://portal.nutanix.com/#/page/docs/details?targetId=vSphere-Admin6-AOS-v511:vSphere-Admin6-AOS-v511
 
 .. _caveats: https://portal.nutanix.com/#/page/kbs/details?targetId=kA00e0000009CFWCA2
 
