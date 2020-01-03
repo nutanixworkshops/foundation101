@@ -1,7 +1,9 @@
 VMware vSphere & MS Hyper-V
 ===========================
 
-These two hypervisors require specific configuration updates either directly on the host or in the management layer, i.e. VMware's vCenter or MS System Center Virtual Machine Manager (SCVMM). If the documentation isn't followed the Nutanix Cluster may not perform as expected in certain scenarios. Fear not, the steps that need to be followed are located with the Support Portal.
+These two hypervisors require specific configuration updates either directly on the host or in the management layer, i.e. VMware's vCenter or MS System Center Virtual Machine Manager (SCVMM). If the documentation isn't followed the Nutanix Cluster will not perform as expected. Fear not, the steps that need to be followed are located within documentation in the Support Portal.
+
+You **MUST** follow these guides.
 
 VMware Deployments
 +++++++++++++++++++
