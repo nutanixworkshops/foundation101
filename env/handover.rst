@@ -10,6 +10,9 @@ Topics to review
 
 Before reeling off your well learned Nutanix 'patter' remember why you're providing them with a cluster. There's obviously a test criteria and plan that will be followed so use this as the direction of the demonstration.
 
+Don't have a test criteria? `This template`_ may assist, but you should have already provided one to the SE Manager for review before agreeing the POC.
+
+
 -   Prism Element, and perhaps Central if they plan to use the features of it
 
 -   Storage creation, it's only a few clicks
@@ -25,3 +28,6 @@ Before reeling off your well learned Nutanix 'patter' remember why you're provid
 -   Work back through the signed-off test plan you've agreed with the customer so it's clear from both sides what is expected
 
 -   Agree review calls and return visits before leaving site, don't leave the customer on their own for this
+
+
+.. _This template: https://drive.google.com/file/d/1GZeBDz8N0pEfD4vroV0UxWiScQvlPe3W/view?usp=sharing
